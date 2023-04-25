@@ -1,0 +1,53 @@
+# This is heading 1
+## This is heading 2
+### This is heading 3
+#### This is heading 4
+##### This is heading 5
+###### This is heading 6
+
+---
+
+This is a paragraph
+
+This is another paragraph
+
+*this is italics*
+
+**this is bold**
+
+***bold and italics***
+
+---
+
+### My favorite fruits 
+1. Mango
+2. Orange
+3. Apple
+   1. bio Apples
+   2. all bio bios
+4. Pawpaw
+
+
+---
+
+### My favorite movies
+- Matrix
+- Star wars
+- Star trek
+  - some planet
+- Jurassic park
+
+---
+
+The command to change directory is `cd`
+
+The command to list the content of a folder are: `ls`, `ls -la`
+
+```
+cd
+ll
+rm
+mv
+cp
+```
+![Image Info]()
